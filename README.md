@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there, nice to meet you! 👋
 
+Originally, I started out as a researcher in physics but I then transitioned into data science as I learnt more and more about neural networks. I'm still new to the field but I'm a fast learner and a dedicated worker.  
+- 🔭 I’m currently working on a small NLP project in which I'm analyzing the diverse topics of discussion in Reddit during the first COVID-19 year (2020).
+- 🌱 I’m currently learning MLOps by following the course on coursera from Andrew Ng.
+- 🤔 I’m looking for help with landing my first job as a data scientist!
+   
 <!--
 **chanthbouala/chanthbouala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
